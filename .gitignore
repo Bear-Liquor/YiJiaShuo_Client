@@ -25,6 +25,9 @@ proguard/
 
 # Log Files
 *.log
+<<<<<<< HEAD
 
 # Local idea file
 .idea/
+=======
+>>>>>>> f2d962c33f43e176d85f877d56926d1eb0489daa
