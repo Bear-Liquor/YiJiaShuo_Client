@@ -1,9 +1,10 @@
-package com.android.ejiashuo;
+package com.android.yijiashuo;
 
 import android.app.Activity;
 import android.os.Bundle;
+import com.android.yijiashuo.R;
 
-public class MyActivity extends Activity {
+public class MainActivity extends Activity {
 	/**
 	 * Called when the activity is first created.
 	 */
@@ -11,6 +12,5 @@ public class MyActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
-		System.out.println("测试代码");
 	}
 }
