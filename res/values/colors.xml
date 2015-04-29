@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color">#ff646464</color>
+    <color name="main_alpha_green">#6450b400</color>
+    <color name="main_secondary" >#ff666666</color>
+    <color name="main_green">#ff50b400</color>
+
+    <color name="bg_main" >#ffe9ecf1</color><!-- 用于大背景色 -->
+
+</resources>
