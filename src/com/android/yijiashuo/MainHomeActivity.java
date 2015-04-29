@@ -13,6 +13,10 @@ public class MainHomeActivity extends Activity {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
+		initView();
+	}
+
+	private void initView(){
 		ActionBarItemView actionBarItemView = (ActionBarItemView) findViewById(R.id.action_bar);
 		actionBarItemView.setOnActionBarClickListener(new ActionBarItemView.OnActionBarClickListener() {
 			@Override
